@@ -1,6 +1,5 @@
 {
     
-    "processo": [{
     "count": 1,
     "status_processo": "A",
     "data": [
@@ -23,5 +22,4 @@
         }
         
     ]
-    }]
 }
